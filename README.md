@@ -8,9 +8,11 @@ Output
     Note - i just uploaded the text file (in the text i wrote example tree).
    
             Step 1 : Put the coded file (Asn03GxxP07.py) and text file in the same folder.
-            Step 2 : Run the code 
+            Step 2 : Enter the command line "python Question07.py text".
+                             text - argument 
+            Step 3 : Run 
     
-    In the output promt it will show "Enter the source vertex" then press source 0(for example).
+    In the output promt it will show "Enter the source vertex" then press source as 0(for example).
 
 contribution of each team member :
       we both worked like brothers , We divided progarm each 
